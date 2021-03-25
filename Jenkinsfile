@@ -23,6 +23,7 @@ pipeline {
                         fileIncludePattern: "**/cucumber.json",
                         jsonReportDirectory: "target"
             }
+
         }
 
     }
